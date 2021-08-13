@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vimby
+- 👋 Hi, I’m @Vimby. Checkout my portfolio https://vimby.github.io/-My-portfolio/
 - 👀 I’m interested in both front and back end web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on open source projects
