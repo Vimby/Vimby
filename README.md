@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vimby. Checkout my portfolio https://vimby.github.io/-My-portfolio/
-- 👀 I’m interested in both front and back end web development
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Vimbai. Checkout my portfolio https://vimbaiportfolio.netlify.app/ 
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently completing an Udacity full stack web development nanodegree
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can email me at vimbysbuzz@gmail.com
 
