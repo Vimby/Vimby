@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vimbai. Checkout my portfolio https://vimbaiportfolio.netlify.app/ 
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently completing an Udacity full stack web development nanodegree
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I completed  full stack web development with Udacity
+- 🌱 I’m currently learning Frontend Development with SheCodes
+- 💞️ I’m looking for a junior role fulltime/hybrid / remote
 - 📫 You can email me at vimbysbuzz@gmail.com
 
 <!---
