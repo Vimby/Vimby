@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vimbai. Checkout my portfolio https://vimbaiportfolio.netlify.app/ 
+- 👋 Hi, I’m Vimbai. Checkout my portfolio https://vimbair.netlify.app/
 - 👀 I completed  full stack web development with Udacity
 - 🌱 I’m currently learning Frontend Development with SheCodes
 - 💞️ I’m looking for a junior role fulltime/hybrid / remote
